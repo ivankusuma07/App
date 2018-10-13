@@ -1,0 +1,4 @@
+Progress Hari Jumat, 12-10-2018
+
+-Buat Menu Customer Log (beserta CRUD) sudah dicoba dan berhasil menjalankan fungsi CRUD dengan baik.
+-Menambah tabel baru untuk koneksi layanan tambahan ke customer. belum dicoba dengan join.
