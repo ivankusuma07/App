@@ -1,2 +1,11 @@
 Progress hari ini Sabtu, 13 Oktober 2018.
-test
+-coba input dg data dari checkbox dengan
+$laytamb = $this->input->post('laytamb_id');
+	if(count($laytamb) > 0){
+  	for($i=0;$i<count($laytamb);$i++) {
+$this->db->set('laytamb_id',$laytamb[$i])
+	}
+} 
+
+tapi masih error.
+-Tanya temen database lagi tentang input checkbox. sudah dapat gambaran belum dicoba lagi.

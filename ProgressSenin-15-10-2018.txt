@@ -1,0 +1,9 @@
+Progress hari ini Senin, 15 Oktober 2018.
+
+mencoba menambah satu field di tabel customer dengan nama "laytamb_nama" 
+dengan jalan json_encode(implode(",", $laytamb)).
+Data sudah bisa masuk dalam satu row. tapi belum bisa tampil di view tabel.
+
+coba decode data layanan tambahan yang diencode tadi dari database tapi belum bisa.
+
+Sudah bisa decode tanpa pakai json_encode ketika input.Dan di select db nama alias 'laytamb_nama' dibedakan.
