@@ -7,3 +7,4 @@ Data sudah bisa masuk dalam satu row. tapi belum bisa tampil di view tabel.
 -Coba decode data layanan tambahan yang diencode tadi dari database tapi belum bisa.
 
 -Sudah bisa decode tanpa pakai json_encode ketika input dg mengganti select db nama alias 'laytamb_nama' dibedakan dari tabel master.
+-sudah bikin db di server baru 192.168.200.222
