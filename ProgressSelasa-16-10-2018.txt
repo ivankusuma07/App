@@ -1,0 +1,6 @@
+Progress hari ini Senin, 15 Oktober 2018.
+
+-opsi extract archived file hanya untuk .zip di server ternyata.
+-edit tampilan web di server yang belum sesuai.DONE
+-belum bisa direct ke controller lain selain default controller di server.
+-coba-coba cari cara di forum-forum dengan edit .htaccess, apache.conf tetep belum bisa.
