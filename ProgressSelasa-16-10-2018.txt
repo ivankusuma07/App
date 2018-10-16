@@ -4,3 +4,8 @@ Progress hari ini Senin, 15 Oktober 2018.
 -edit tampilan web di server yang belum sesuai.DONE
 -belum bisa direct ke controller lain selain default controller di server.
 -coba-coba cari cara di forum-forum dengan edit .htaccess, apache.conf tetep belum bisa.
+-ganti data-target dan id button collapse detail paket 
+dan detail layanan tambahan <button type="button" class="btn btn-sm btn-info" data-toggle="collapse" data-target="#p'.$i.'"><b>+</b></button>
+  <div id="p'.$i++.'" class="collapse">
+<button type="button" class="btn btn-sm btn-info" data-toggle="collapse" data-target="#l'.$i.'"><b>+</b></button>
+  <div id="l'.$i++.'" class="collapse">
