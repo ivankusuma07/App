@@ -1,0 +1,4 @@
+Progress hari ini Rabu, 17 Oktober 2018.
+
+-fixing edit customer di bagian paket yang tidak retrieve data dari database.
+-editing UI di form input Customer dan Transaksi

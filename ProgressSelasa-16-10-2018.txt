@@ -1,4 +1,4 @@
-Progress hari ini Senin, 15 Oktober 2018.
+Progress hari ini Selasa, 16 Oktober 2018.
 
 -opsi extract archived file hanya untuk .zip di server ternyata.
 -edit tampilan web di server yang belum sesuai.DONE
