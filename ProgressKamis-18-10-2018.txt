@@ -1,3 +1,7 @@
 Progress Hari ini Kamis, 18 Oktober 2018
 
--
+-Fixing mengambil data dari database yang sudah diinput ketika edit di menu customer.
+-tetap belum ketemu cara agar ketika edit data combobox maupun checkbox dapat ambil data
+ yang sudah diinputkan dan tersimpan di database.
+<?php if ($p->paket_id == $p->paket_id){echo 'selected="selected"';}else{echo '';}
+pakai cara ini tapi yang terselect hanya list paket terakhir bukan data hasil input yang tersimpan di database.
